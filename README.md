@@ -27,7 +27,7 @@ The project is built using **Django REST Framework (DRF)** and uses **PostgreSQL
   <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="Django" width="100" height="100">
 </a>
 <a href="https://www.rabbitmq.com/">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/3/31/RabbitMQ_logo.svg](https://www.svgrepo.com/show/303576/rabbitmq-logo.svg)" alt="RabbitMQ" width="100" height="100">
+  <img src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg" alt="RabbitMQ" width="100" height="100">
 </a>
 - [![PostgreSQL](https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg)](https://www.postgresql.org/)
 - **Environment Variables**: Securely configure sensitive information like database credentials using a `.env` file.  
