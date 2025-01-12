@@ -23,9 +23,9 @@ The project is built using **Django REST Framework (DRF)** and uses **PostgreSQL
 
 ## Technologies Used  
 
-- **Django REST Framework (DRF)**: The primary framework for building APIs.  
-- **PostgreSQL**: A powerful, open-source relational database.
-- **RabbitMQ**: A message broker used to send and receive messages.
+- [![Django](https://static.djangoproject.com/img/logos/django-logo-negative.svg)](https://www.djangoproject.com/)  
+- [![PostgreSQL](https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg)](https://www.postgresql.org/)
+- [![RabbitMQ](https://upload.wikimedia.org/wikipedia/commons/3/31/RabbitMQ_logo.svg)](https://www.rabbitmq.com/)
 - **Environment Variables**: Securely configure sensitive information like database credentials using a `.env` file.  
 
 ---
